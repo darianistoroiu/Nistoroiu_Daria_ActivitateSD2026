@@ -1,0 +1,4 @@
+1,Goguta,3,20,55,34,5
+2,Gargaritele,2,44,51,10
+3,Albinutele,3,15,50,27,7
+4,Veveritele,3,25,48,27,12
